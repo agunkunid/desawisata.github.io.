@@ -1,0 +1,216 @@
+@font-face {
+  font-family: "poppins-regular";
+  src: url("font/Poppins-Regular.ttf");
+}
+.navbar {
+  font-family: "poppins-regular";
+}
+@font-face {
+  font-family: "poppins-bold";
+  src: url("font/Poppins-Bold.ttf");
+}
+#beranda {
+  font-family: "poppins-bold";
+}
+.jumbotron {
+  padding-top: 10rem;
+  background-image: url("img/Desktop\ -\ beranda.svg");
+  background-repeat: no-repeat;
+  background-size: 90rem;
+  height: 655px;
+  background-position: bottom;
+}
+#Tentang-Home {
+  padding-top: 10rem;
+  background-image: url("img/Desktop\ -\ beranda.svg");
+  background-repeat: no-repeat;
+  background-size: 90rem;
+  height: 655px;
+  background-position: bottom;
+}
+#logo {
+  border-radius: 3rem;
+}
+@font-face {
+  font-family: "poppins-medium";
+  src: url("font/Poppins-Medium.ttf");
+}
+
+#judul1 {
+  font-family: "poppins-medium";
+  text-shadow: 2px 2px 4px #000000;
+}
+@font-face {
+  font-family: "poppins-bold";
+  src: url("font/Poppins-Bold.ttf");
+}
+#judul2 {
+  font-family: "poppins-bold";
+  text-shadow: 2px 2px 4px #000000;
+  text-align: center;
+}
+
+@font-face {
+  font-family: "poppins-medium";
+  src: url("font/Poppins-Medium.ttf");
+}
+#kenapa {
+  background-image: url(img/Desktop\ -\ Kenapa.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  padding-top: 8rem;
+  font-family: "poppins-medium";
+  text-shadow: 2px 2px 4px #000000;
+}
+#Pilihan {
+  background-image: url(img/2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-family: "poppins-medium";
+}
+#title1 {
+  padding-top: 5rem;
+  text-shadow: 2px 2px 4px #000000;
+}
+#title2 {
+  padding-top: 5rem;
+  text-shadow: 2px 2px 4px #000000;
+}
+.col-md-3 {
+  padding-top: 7rem;
+  font-family: "poppins-regular";
+  text-shadow: 2px 2px 4px #000000;
+}
+#dokumentasi {
+  padding-top: 3rem;
+  font-family: "poppins-bold";
+  background-image: url(img/Desktop\ -\ penjelasan.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+#foto {
+  width: 100%;
+  padding-bottom: 9rem;
+}
+#keterangan {
+  font-family: "poppins-medium";
+}
+#kami {
+  text-shadow: 2px 2px 4px #000000;
+  font-family: "poppins-regular";
+}
+#hubungi {
+  background-color: #fff;
+  padding-top: 8rem;
+  font-family: "poppins-medium";
+}
+#bookinginfo {
+  text-shadow: 2px 2px 4px #000000;
+}
+#lok {
+  font-family: "poppins-regular";
+}
+#tentang-text {
+  text-align: justify;
+  font-family: "poppins-regular";
+  text-shadow: 4px 4px 5px #000000;
+}
+#Visi-misi {
+  font-family: "poppins-medium";
+  text-shadow: 2px 2px 4px #000000;
+  padding-top: 9rem;
+  background-image: url(img/Desktop\ -\ tentang.svg);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+}
+#riview {
+  font-family: "poppins-bold";
+  margin: 3rem;
+  text-shadow: 2px 2px 4px #000000;
+}
+#booking {
+  font-family: "poppins-bold";
+  color: #fff;
+  text-shadow: 2px 2px 4px #000000;
+}
+video {
+  width: 75%;
+  height: auto;
+}
+#pesan {
+  padding-top: 5rem;
+  font-family: "poppins-medium";
+  text-shadow: 2px 2px 4px #000000;
+  color: #fff;
+  padding-bottom: 2rem;
+}
+#rincian-tersedia {
+  font-family: "poppins-medium";
+  color: #fff;
+  text-shadow: 2px 2px 4px #000000;
+}
+#tombol {
+  flex: auto;
+}
+#rincian {
+  background-image: url(img/Desktop\ -\ penjelasan.svg);
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+#bg-riview {
+  background-image: url(img/Desktop\ -\ penjelasan.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+.form-check {
+  font-family: "poppins-medium";
+  color: #fff;
+}
+.form-label {
+  font-family: "poppins-medium";
+  color: #fff;
+}
+#pembayaran {
+  background-image: url(img/Desktop\ -\ Pembayaran.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  padding: 6rem;
+}
+#formbayar {
+  background-color: #4081ed;
+  font-family: "poppins-medium";
+  text-shadow: 2px 2px 4px #000000;
+}
+#Home-Senam {
+  background-image: url(img/Desktop\ -\ senam.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+#Home-Pasar {
+  background-image: url(img/Desktop\ -\ Pasar\ Tiban.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+#Home-akustik {
+  background-image: url(img/Desktop\ -\ akustik.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+#Home-Sewa {
+  background-image: url(img/Desktop\ -\ Sewa.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+#kirim-btn {
+  color: #fff;
+}
